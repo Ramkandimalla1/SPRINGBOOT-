@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.prak",
+      "type": "com.prak.bean.Employee",
+      "sourceType": "com.prak.bean.Employee"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.prak.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.prak.bean.Employee"
+    },
+    {
+      "name": "com.prak.m",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.prak.bean.Employee"
+    }
+  ],
+  "hints": []
+}
